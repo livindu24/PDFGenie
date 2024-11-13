@@ -1,0 +1,9 @@
+streamlit==1.17.0
+streamlit-chat==0.0.1
+openai==0.26.4
+langchain==0.15.0
+PyPDF2==1.26.0
+faiss-cpu==1.7.2
+speechrecognition==3.8.1
+pocketsphinx==5.0.3
+python-dotenv==0.21.0
