@@ -1,5 +1,5 @@
 streamlit==1.17.0
-streamlit-chat==0.0.1
+streamlit-chat
 openai==0.26.4
 langchain==0.15.0
 PyPDF2==1.26.0
